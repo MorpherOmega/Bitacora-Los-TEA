@@ -28,5 +28,3 @@ Desafío: Unificar y simplificar el proceso de reservas de espacios del HUB.
 - Mapa de Empatía: Considerando que siente, que ve, que oye, que dice y hace el usuario. Además, identificar sus esfuerzos y resultados.
 
 - Planificación del Pitch: El equipo se coordinó para repartir lo que dirá cada uno, dividiendo la información el Intro + Conclusión (Contexto y Relevancia/Cierre), Problema, Actores/Causas e Impacto.
-
--  
